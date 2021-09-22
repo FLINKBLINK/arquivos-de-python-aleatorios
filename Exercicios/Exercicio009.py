@@ -9,6 +9,7 @@ x7 = numero * 7
 x8 = numero * 8
 x9 = numero * 9
 x10 = numero * 10
+print('-' * 12)
 print('Tabuada do numero {}:'.format(numero)+
 '\n {} x 1 = {}'
 '\n {} x 2 = {}'
@@ -23,4 +24,4 @@ print('Tabuada do numero {}:'.format(numero)+
  x1, numero, x2, numero, x3, numero, x4,
  numero, x5, numero, x6, numero, x7, 
  numero, x8, numero, x9, numero, x10))
- 
+print('-' * 12)
