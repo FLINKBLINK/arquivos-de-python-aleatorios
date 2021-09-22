@@ -1,0 +1,5 @@
+Oredem de precedencia de contas 
+em primeiro lugar vewm as contas dentro dos parenteses ()
+em segundo lugar em as potencias **
+em terceiro lugar vem as multiplicações *, as divisóes /, as divisóes inteiras // e o resto das divisoes %
+em ultimo lugar vem as somas + e as subitraçções -
