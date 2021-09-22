@@ -11,15 +11,15 @@ x9 = numero * 9
 x10 = numero * 10
 print('-' * 12)
 print('Tabuada do numero {}:'.format(numero)+
-'\n {} x 1 = {}'
-'\n {} x 2 = {}'
-'\n {} x 3 = {}'
-'\n {} x 4 = {}'
-'\n {} x 5 = {}'
-'\n {} x 6 = {}'
-'\n {} x 7 = {}'
-'\n {} x 8 = {}'
-'\n {} x 9 = {}'
+'\n {} x  1 = {}'
+'\n {} x  2 = {}'
+'\n {} x  3 = {}'
+'\n {} x  4 = {}'
+'\n {} x  5 = {}'
+'\n {} x  6 = {}'
+'\n {} x  7 = {}'
+'\n {} x  8 = {}'
+'\n {} x  9 = {}'
 '\n {} x 10 = {}'.format(numero,
  x1, numero, x2, numero, x3, numero, x4,
  numero, x5, numero, x6, numero, x7, 
